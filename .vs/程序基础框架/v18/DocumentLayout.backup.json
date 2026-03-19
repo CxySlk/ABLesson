@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Others\\Projects\\Unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DCFBA4-EA4D-7DF9-137C-C5C403CE5F66}|Assembly-CSharp.csproj|d:\\others\\projects\\unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\assets\\scripts\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DCFBA4-EA4D-7DF9-137C-C5C403CE5F66}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DCFBA4-EA4D-7DF9-137C-C5C403CE5F66}|Assembly-CSharp.csproj|d:\\others\\projects\\unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\assets\\scripts\\projectbase\\ui\\uimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DCFBA4-EA4D-7DF9-137C-C5C403CE5F66}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\ui\\uimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DCFBA4-EA4D-7DF9-137C-C5C403CE5F66}|Assembly-CSharp.csproj|d:\\others\\projects\\unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\assets\\scripts\\projectbase\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DCFBA4-EA4D-7DF9-137C-C5C403CE5F66}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "D:\\Others\\Projects\\Unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\Assets\\Scripts\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoginPanel.cs",
+              "ToolTip": "D:\\Others\\Projects\\Unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\Assets\\Scripts\\LoginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoginPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:06:38.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "D:\\Others\\Projects\\Unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "ToolTip": "D:\\Others\\Projects\\Unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T08:53:16.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIMgr.cs",
+              "DocumentMoniker": "D:\\Others\\Projects\\Unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\Assets\\Scripts\\ProjectBase\\UI\\UIMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\UI\\UIMgr.cs",
+              "ToolTip": "D:\\Others\\Projects\\Unity\\\u7A0B\u5E8F\u57FA\u7840\u6846\u67B6\\Assets\\Scripts\\ProjectBase\\UI\\UIMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\UI\\UIMgr.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwGwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T07:39:04.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
